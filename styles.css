@@ -51,8 +51,8 @@ h1, h2, h3, p, h4 {
 }
 
 .gift-img {
-    width: 420px;
-    height:450px;
+    width: 370px;
+    height:410px;
     border-radius: 9px;
     background-image: url("gift-cover.jpg");
     background-size: cover;
